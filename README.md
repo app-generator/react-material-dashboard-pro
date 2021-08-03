@@ -9,7 +9,7 @@ Material Dashboard PRO React is a Premium Material-UI Admin created using **crea
 - Premium Material UI design - Designed by [Creative-Tim](https://bit.ly/3fKQZaL/)
 - React, Redux, Redux-persist
 - Authentication: JWT Login/Register/Logout
-- (Optional) - can be used with a [Node JS API server](https://github.com/app-generator/api-server-nodejs-pro) for a complete full-stack experience 
+- [Node JS API server](https://github.com/app-generator/api-server-nodejs-pro) for a complete full-stack experience 
 
 <br />
 
@@ -17,7 +17,7 @@ Material Dashboard PRO React is a Premium Material-UI Admin created using **crea
 
 - [React Node JS Material PRO](https://appseed.us/product/react-node-js-material-dashboard-pro) - product page
 - [React Node JS Material PRO](https://react-node-js-material-dashboard-pro.appseed-srv1.com) - LIVE Demo
-- [Node JS API](https://github.com/app-generator/api-server-nodejs) - the backend server 
+- [Node JS API Server](https://github.com/app-generator/api-server-nodejs-pro) (PRO version) - the backend server 
 - Support via **Github** (issues tracker) and [Discord](https://appseed.us/support) - LIVE Assistance 
 
 <br >
