@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.2] 2021-XX-YY UNRELEASED
+### Improvements
+
+- Remove default login values (used only for DEMO) - Files:
+    - `\src\views\Pages\LoginPage.js` 
+
 ## [1.0.1] 2021-08-04
 ### Fixes
 
