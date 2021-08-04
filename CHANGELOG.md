@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.1] 2021-08-04
+### Fixes
+
+- Patch #4 - Move `API_SERVER` from `.env` to a config file
+- Patch #5 (enhancement) - Login Page - default values for email / pass 
+
 ## [1.0.0] 2021-08-03
 ### Initial Release
 
